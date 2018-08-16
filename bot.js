@@ -9,7 +9,7 @@ const fetchVideoInfo = require('youtube-info');
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 const prefix = '!';
 client.on('ready', function() {
-    client.user.setGame(`اكتب اي شي هنا`,"http://twitch.tv/sytra_ayman")
+    client.user.setGame(`AG STORE.`,"http://twitch.tv/sytra_ayman")
     console.log(`i am ready ${client.user.username}`);
 });
 /*
